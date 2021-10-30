@@ -22,6 +22,19 @@ header a img {
     margin-right: 15px;
 }
 
+footer .right {
+    text-align: start;
+}
+
+footer .left {
+    text-align: end;
+}
+
+footer hr {
+    width: 20px;
+    transform: rotate(90deg);
+}
+
 .btn.btn-outline-success {
     color: #0dad68;
 }
@@ -85,6 +98,11 @@ header a img {
     }
 
     footer hr {
-        transform: rotate(90deg);
+        width: 100%;
+        transform: rotate(360deg);
+    }
+
+    footer .col {
+        text-align: center;
     }
 }
