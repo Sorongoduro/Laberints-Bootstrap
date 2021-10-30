@@ -116,5 +116,9 @@ footer .fb, .tw, .yt {
         margin-right: 20px;
     }
 
+    footer .row.m-auto.text-white.align-items-center {
+        text-align: center;
+    }
+
 }
 
