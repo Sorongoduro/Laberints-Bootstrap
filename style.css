@@ -116,8 +116,3 @@ footer .fb, .tw, .yt {
 
 }
 
-@media (min-width: 1024px) {
-    footer .fb, .tw, .yt {
-        margin: 0px;
-    }
-}
