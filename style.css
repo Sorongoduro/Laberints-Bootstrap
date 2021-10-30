@@ -13,6 +13,7 @@ section .container-right {
     max-width: 70%;
 }
 
+
 header .col.text-center img {
     max-width: 50%;
 }
@@ -96,6 +97,7 @@ footer .fb, .tw, .yt {
     section .card-body {
         padding: 0px;
     }
+
 
     footer .col {
         text-align: center;
