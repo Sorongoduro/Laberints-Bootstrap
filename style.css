@@ -36,7 +36,7 @@ footer hr {
 }
 
 footer .fb, .tw, .yt {
-    margin-right: 20px;
+    margin-right: 15px;
 }
 
 .btn.btn-outline-success {
@@ -110,10 +110,14 @@ footer .fb, .tw, .yt {
         text-align: center;
     }
 
+    footer .fb, .tw, .yt {
+        margin-right: 20px;
+    }
+
 }
 
-@media (max-width: 1024px) {
+@media (min-width: 1024px) {
     footer .fb, .tw, .yt {
         margin: 0px;
-}
+    }
 }
